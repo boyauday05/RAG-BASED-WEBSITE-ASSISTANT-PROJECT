@@ -1,0 +1,18 @@
+streamlit
+python-dotenv # to access the API key
+langchain
+langchain-community # to share the data as urls
+langchain-text-splitters # divides the data into subtext
+langchain-chroma # helps us to connect chromadb with langchain
+langchain-huggingface # to connect the huggingface and langchain
+langchain-groq
+chromadb
+unstructured # helps us to get structured data
+tiktoken
+sentence-transformers
+torch
+transformers # helps us to load the different transformers from huggingface
+pydantic
+requests
+beautifulsoup4
+lxml 
