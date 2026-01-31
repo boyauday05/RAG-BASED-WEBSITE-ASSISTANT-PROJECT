@@ -1,14 +1,4 @@
-# Langchain : Framework
-# Vector database : ChromaDB
-# Huggingface
-# LLM : GROQ : llama
-# Get the API key to access the LLM
+A Retrieval-Augmented Generation (RAG) based website assistant that enables users to ask natural language questions and receive accurate, context-aware answers from website content. The system retrieves relevant information from a vector database and uses a Large Language Model to generate precise responses.
 
-# Project Name : RAG based website research assistant
 
-# 1. Mention all the require library and install
-# pip install -r requirements.txt
-
-# 2. Create API key to access LLM using GROQ platform
-# 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
 
